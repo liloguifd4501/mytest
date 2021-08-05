@@ -5,6 +5,7 @@ fun main() {
 //    Human().hello()
     val h = Human()
     h.hello()
+
 }
 
 class Human{
